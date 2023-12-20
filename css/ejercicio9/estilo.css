@@ -11,18 +11,20 @@ table{
     border-style: double;
     background-color: grey;
     border-spacing: 12px;
+    
 }
 
 tbody tr :nth-child(odd){
     background-color: orange;
-    border-spacing: 12px;
+    border-spacing: inherit;
 }
 
 
 tbody tr :nth-child(even){
     background-color: orange;
-    border-spacing: 12px;
+    border-spacing: inherit;
 }
-tbody td:nth-child(n+2){
+ td{
     padding: 4px; 
+    border-style: groove;
   }
