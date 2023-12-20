@@ -1,0 +1,28 @@
+thead tr :nth-child(odd) {
+   background-color: rgb(0, 255, 179);
+}
+
+thead tr :nth-child(even) {
+    background-color: rgb(0, 255, 179);
+ }
+ 
+
+table{
+    border-style: double;
+    background-color: grey;
+    border-spacing: 12px;
+}
+
+tbody tr :nth-child(odd){
+    background-color: orange;
+    border-spacing: 12px;
+}
+
+
+tbody tr :nth-child(even){
+    background-color: orange;
+    border-spacing: 12px;
+}
+tbody td:nth-child(n+2){
+    padding: 4px; 
+  }
