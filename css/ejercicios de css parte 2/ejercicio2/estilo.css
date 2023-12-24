@@ -1,3 +1,8 @@
 .img3{
-    border: 100px color red;
+    
+        border: 5px solid red;
+        padding: 10px;
+       height: 300px;
+       width: 300px;
 }
+
