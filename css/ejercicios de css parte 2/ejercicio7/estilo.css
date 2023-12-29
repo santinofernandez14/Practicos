@@ -1,0 +1,35 @@
+
+
+
+.imagen1{
+    width: 1200px;
+    height: 500px;
+    
+}
+
+
+.p1{
+    position: relative;
+    bottom: 480px;
+    left: 100px;
+   
+   
+}
+
+.p2{
+    position: relative;
+    bottom: 370px;
+    left: 110px;  
+}
+
+.p3{
+    position: relative;
+    bottom: 300px;
+    left: 100px;   
+}
+
+.p4{
+    position: relative;
+    bottom: 220px;
+    left: 100px;     
+}
