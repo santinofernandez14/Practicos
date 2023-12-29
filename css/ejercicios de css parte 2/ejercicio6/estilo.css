@@ -1,0 +1,107 @@
+
+body{
+   background-color: gainsboro
+}
+h2{
+    color: rgba(0, 255, 255, 0.692)
+}
+
+.tienda{
+    text-align: justify;
+    margin-left: 50px;
+    position: relative;
+    bottom: 0px;
+
+}
+
+hr{
+    width: 300px;
+    border-style: solid;
+    border-color: aqua;
+}
+
+ol{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight: 10px;
+}
+
+.atencionc{
+    text-align: center;
+    right: 120px;
+    position: relative;
+    bottom: 267px;
+    
+} 
+
+.hr2{
+    right: 120px;
+    position: relative;
+    bottom: 267px;
+}
+
+.lista2{
+    text-align: center;
+    position: relative;
+    bottom: 267px;
+   right: 150px;
+}
+
+.Micuenta{
+    text-align: right;
+    right: 370px;
+    position: relative;
+    bottom: 460px;
+    
+}
+
+.hr3{
+    right: 230px;
+    position: relative;
+    bottom: 460px;
+}
+
+.lista3{
+    text-align: right;
+    position: relative;
+    bottom: 467px;
+    right: 350px;  
+}
+
+.imagen2{
+    text-align: right;
+    position: fixed;
+    bottom: 370px;
+    right: 350px;  
+}
+
+.imagen8{
+    width: 40px;
+    height: 40px;
+    text-align: right;
+    position: relative;
+    bottom: 645px;
+    
+       
+}
+
+.imagen9{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 645px; 
+    left: 360px ;
+}
+
+.imagen10{
+
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 645px; 
+    left: 720px ;
+
+}
+
