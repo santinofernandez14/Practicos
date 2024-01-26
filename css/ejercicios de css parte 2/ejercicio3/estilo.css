@@ -3,4 +3,8 @@
     position: sticky;
     top: 0px;
     right: 0px;
+    overflow: scroll;
+    border-style: outset;
+    border-color: blue;
+    border-width: 15px;
 }
